@@ -50,7 +50,7 @@ class _DrawerHelpState extends State<DrawerHelp> {
       final Email email = Email(
         body: "Hello",
         subject: "Reminder Point",
-        recipients: ["dhruvi.ddp@gmail.com"],
+        recipients: ["dhruvi@olbuz.com"],
         isHTML: false,
       );
 

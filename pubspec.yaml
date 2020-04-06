@@ -75,6 +75,7 @@ flutter:
     - images/headerbg.png
     - images/headerbg1.png
     - images/reminderlogo.png
+    - images/feedback.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

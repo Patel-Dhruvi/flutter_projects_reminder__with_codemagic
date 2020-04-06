@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:reminder_things/Constants.dart';
 import 'package:reminder_things/DrawerScreen/DrawerAbout.dart';
+import 'package:reminder_things/DrawerScreen/DrawerFeedback.dart';
 import 'package:reminder_things/DrawerScreen/DrawerSettings.dart';
 import 'AppScreens/AddDetailsScreen.dart';
 import 'AppScreens/Home.dart';
@@ -45,6 +46,9 @@ class MyApp extends StatelessWidget {
             break;
           case '/help':
             return  MaterialPageRoute(builder:(_)=> DrawerHelp());
+            break;
+          case '/feedback':
+            return  MaterialPageRoute(builder:(_)=> DrawerFeedback());
             break;
           default:
             return null;

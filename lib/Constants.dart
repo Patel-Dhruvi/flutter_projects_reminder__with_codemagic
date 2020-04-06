@@ -182,3 +182,5 @@ const kHelpAns2="If you Select the Postpone option then you will be able to chan
 const kHelpQue3="Did not find the answer to your question ?";
 const kHelpAns3="In that case,the best option for you would be to contact us directly by under suggested option and explain "
     "your issue in as much detail as possible, you can also include the relevant screenshots and/or screen recordings.";
+
+const kFeedbackText="Noticed a bug or have a any suggestion?";
